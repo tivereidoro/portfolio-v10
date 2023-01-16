@@ -360,10 +360,10 @@ section.services .container .service:nth-child(3) i {
 
 
 /* PORTFOLIO SECTION */
-section.recent-work h1 {
+section.recent-work {
 	text-align: center;
-	margin: 3rem 0 1rem;
-	width: 65%;
+	margin: 2rem 0 1rem;
+	width: 100%;
 }
 section.recent-work .projects {
 	display: grid;
